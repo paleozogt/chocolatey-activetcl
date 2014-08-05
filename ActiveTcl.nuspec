@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>ActiveTcl</id>
+        <version>8.5.14.002</version>
+        <authors>murray</authors>
+        <projectUrl>http://www.activestate.com/activetcl</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>The windows implementation of the Tcl (tickle) programming language.</description>
+    </metadata>
+</package>
