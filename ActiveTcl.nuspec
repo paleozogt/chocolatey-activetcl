@@ -2,10 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>ActiveTcl</id>
-        <version>8.6.1.0</version>
+        <version>8.6.6</version>
         <authors>paleozogt</authors>
         <projectUrl>http://www.activestate.com/activetcl</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <tags>tcl programming language console ide</tags>
+        <summary>Save time in your development cycles by starting with a precompiled Tcl distribution for out-of-the-box installation and standardization across the operating systems you rely on, including Windows, Linux and Mac OS X (as well as Solaris, AIX, and HP-UX in commercial Enterprise Edition). Develop once and deploy successfully across your production environment.</summary>
         <description>The windows implementation of the Tcl (tickle) programming language.</description>
     </metadata>
 </package>
