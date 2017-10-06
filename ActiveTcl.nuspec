@@ -9,5 +9,8 @@
         <tags>tcl programming language console ide</tags>
         <summary>Save time in your development cycles by starting with a precompiled Tcl distribution for out-of-the-box installation and standardization across the operating systems you rely on, including Windows, Linux and Mac OS X (as well as Solaris, AIX, and HP-UX in commercial Enterprise Edition). Develop once and deploy successfully across your production environment.</summary>
         <description>The windows implementation of the Tcl (tickle) programming language.</description>
+		<dependencies>
+		    <dependency id="vcredist2015" />
+		</dependencies>
     </metadata>
 </package>
